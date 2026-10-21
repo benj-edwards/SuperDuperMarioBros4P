@@ -88,10 +88,9 @@ This is an experiment, and parts of it are rough:
 - **Colors:** Peach has red hair and a white dress (the sprite palettes have no pink or
   yellow), and with Luigi in a water, underground or castle level, some enemies show their
   above-ground colors.
-- **Testing:** mostly in MAME, with scripted scenarios, comparisons against the original game
-  and long random-play runs; two players also in OpenEmu. Earlier two-player builds have run
-  on a real NES from a PowerPak; this four-player ROM has not yet been tested on a real NES
-  with a Four Score.
+- **Testing:** in MAME, with scripted scenarios, comparisons against the original game and
+  long random-play runs; two players also in OpenEmu; and four players on a real NES with an
+  NES Four Score.
 
 Please report problems on the [Issues](https://github.com/benj-edwards/SuperDuperMarioBros4P/issues)
 page, with the version, the emulator or flash cart, and where in the game it happened.
